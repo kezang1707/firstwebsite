@@ -4,4 +4,5 @@ div img{
 }.card{
     margin: auto;
     display: block;
+    margin: 20px;
 }
